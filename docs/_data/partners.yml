@@ -1,0 +1,47 @@
+- name: "MetaAI"
+  photo: "metaai.jpeg"
+  partner_type: sponsor
+
+- name: "MLCommons"
+  photo: "mlcommons.jpeg"
+  partner_type: sponsor
+
+- name: "Huggingface"
+  photo: "huggingface.svg"
+  partner_type: sponsor
+
+- name: "OpenAI"
+  photo: "openai.png"
+  partner_type: sponsor
+
+- name: "Cohere"
+  photo: "cohere.png"
+  partner_type: sponsor
+
+- name: "Aleph Alpha"
+  photo: "alephalpha.png"
+  partner_type: sponsor
+
+- name: "Anthropic"
+  photo: "anthropic.svg"
+  partner_type: sponsor
+
+- name: "Microsoft Azure"
+  photo: "azure.png"
+  partner_type: sponsor
+
+- name: "Google"
+  photo: "google.svg"
+  partner_type: sponsor
+
+- name: "University of Oxford"
+  photo: "oii.png"
+  partner_type: core
+
+- name: "Dynabench"
+  photo: "dynabench.png"
+  partner_type: core
+
+- name: "Prolific"
+  photo: "prolific.png"
+  partner_type: core

@@ -1,0 +1,50 @@
+<!-- Partners Grid Section -->
+<section id="partners">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2>Our Partners</h2>
+          <hr class="star-yellow">
+        </div>
+      </div>
+      
+      <!-- Core Partners Section -->
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h3>Powered by</h3>
+        </div>
+      </div>
+      <div class="row">
+        {% for partner in site.data.partners %}
+        {% if partner.partner_type == 'core' %}
+        <div class="col-sm-4 partner-item">
+          <div class="partner-logo" style="background-image: url('img/partners/{{ partner.photo }}');">
+            <div class="overlay">
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+  
+      <!-- Sponsor Partners Section -->
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h3>With support from</h3>
+        </div>
+      </div>
+      <div class="row">
+        {% for partner in site.data.partners %}
+        {% if partner.partner_type == 'sponsor' %}
+        <div class="col-sm-4 partner-item">
+          <div class="partner-logo" style="background-image: url('img/partners/{{ partner.photo }}');">
+            <div class="overlay">
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+  
+    </div>
+  </section>

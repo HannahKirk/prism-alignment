@@ -1,0 +1,22 @@
+<!-- Team Grid Section -->
+<section id="team">
+    <div class="container team-flex-grid">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2>Our Team</h2>
+          <hr class="star-green">
+        </div>
+      </div>
+      <div class="team-flex-row">
+        {% for member in site.data.team %}
+        <div class="team-flex-item team-item">
+          <div class="team-member">
+            <img src="img/team/{{ member.photo }}" class="img-circle img-responsive" style="width: 150px; height: auto;" alt="{{ member.name }}">
+            <h4 class="team-member-name">{{ member.name }}</h4>
+            <p class="team-member-affiliation">{{ member.affiliation }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
