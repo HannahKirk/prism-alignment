@@ -34,6 +34,18 @@
   photo: "google.svg"
   partner_type: sponsor
 
+- name: "Meedan"
+  photo: "meedan.png"
+  partner_type: sponsor
+
+- name: "ESRC"
+  photo: "esrc.png"
+  partner_type: sponsor
+
+- name: "Open Philanthropy"
+  photo: "openphil.jpeg"
+  partner_type: sponsor
+
 - name: "University of Oxford"
   photo: "oii.png"
   partner_type: core
