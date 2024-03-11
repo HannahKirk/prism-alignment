@@ -43,6 +43,7 @@ hr.star-pale,
 hr.star-green,
 hr.star-yellow,
 hr.star-teal,
+hr.star-red,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -58,6 +59,7 @@ hr.star-pale:after,
 hr.star-green:after,
 hr.star-yellow:after,
 hr.star-teal:after,
+hr.star-red:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -91,6 +93,18 @@ hr.star-yellow {
     color: #ffc24c;
     background-color: #fff;
 }
+
+
+hr.star-red {
+    color: #ff8a67;
+    background-color: #fff;
+}
+
+hr.star-red:after {
+    color: #ff8a67;
+    background-color: #fff;
+}
+
 
 hr.star-yellow:after {
     color: #ffc24c;
