@@ -52,6 +52,9 @@ Or cite our dataset (DOI = `10.57967/hf/2113`):
 }
 ```
 
+**Suggested In-text Citation:** Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Ciro, J., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024). _The PRISM Alignment Dataset_. https://doi.org/10.57967/hf/2113.
+
+
 ## Code Details
 
 The code in `./src` is coordinated and run in phases via `./scripts`. Any plotting or analysis is primarily conducted and presented in `./notebooks`. The clean data for release is in `./data`. We provide an export of our conda environment in `environment.yml`.
