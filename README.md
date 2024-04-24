@@ -43,13 +43,13 @@ For proper attribution when using this dataset in any publications or research o
 
 The code in `./src` is coordinated and run in phases via `./scripts`. Any plotting or analysis is primarily conducted and presented in `./notebooks`. The clean data for release is in `./data`. We provide an export of our conda environment in `environment.yml`.
 
+The code base was developed for our preprint and is still being prepared/refined for final submission. It is a work in progress! 👷
+
 ### Stages
 We consider there to be two phases to the codebase for this project:
 
-1. **Pre-release**: Any data collection, cleaning or processing steps we conduct prior to releasing the dataset publically. We release this code but not the interim data files in order to protect the privacy of our data subjects. These steps are sequentially run via `./scripts/pre_release_pipeline.sh`. Some steps of the processing (particularly census-matching and any manual annotation) are presented in `notebooks/pre-release processing`.
-2. **Post-release**: To ensure reproduciblity of our results, analysis presented in our paper is based on the seperate investigations in `notebooks/analysis`.
+1. **Pre-release**: Any data collection, cleaning or processing steps we conduct prior to releasing the dataset publically. We release this code for transparency but not the interim data files in order to protect the privacy of our data subjects. These steps are sequentially run via `./scripts/pre_release_pipeline.sh`. Some steps of the processing (particularly census-matching and any manual annotation) are presented in `notebooks/pre-release processing`.
+2. **Post-release**: The analysis presented in our preprint is based on the seperate investigations in `notebooks/analysis`.
 
 ## Issue Reporting
 If there are any issues with the dataset, for example, the discovery of personal or private information (PII) or requests from participants for data removal, please report it to us via the [Issue Reporting Form](https://forms.gle/WFvqvDBNqbCteoZV7).
-
-
