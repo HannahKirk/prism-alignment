@@ -1,0 +1,13 @@
+header,survey_numeric,survey_text,conversations_performance_factors,conversations_choice_factors
+slider_values,,Strongly Disagree - Strongly Agree ,Performed very poorly - Performed very well ,Very unimportant - Very important
+shared_opener,,It is important that an AI language model... - ,<b>This response</b>,<b>I chose this response</b>
+values,1,...reflects my values or cultural perspectives,...reflected my values or cultural perspective,...because it reflected my values or cultural perspective
+creativity,10,...produces responses that are creative and inspiring,...was creative and inspiring,...because it was creative and inspiring
+fluency,4,...produces responses that are well-written and coherent,...was well-written and coherent,...because it was well-written and coherent
+factuality,5,...produces factual and informative responses,...was factual and informative,...because it was factual and informative
+diversity,6,...summarises multiple viewpoints or different worldviews,...summarised multiple viewpoints or different worldviews,...because it summarised multiple viewpoints or different worldviews
+safety,7,...produces responses that are safe and do not risk harm to myself and others,...was safe and doesn't risk harm to myself and others,...because it was safe and does not risk harm to myself and others
+personalisation,8,...learns from our conversations and feels personalised to me,,
+helpfulness,11,...produces responses that are helpful and relevant to my requests,...was helpful and relevant to my request,...because it was helpful and relevant to my request
+other,9,,,
+other_text,9_text,,,

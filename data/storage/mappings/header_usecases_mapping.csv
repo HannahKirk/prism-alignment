@@ -1,0 +1,22 @@
+header,survey_numeric,survey_text
+shared_opener,,Which of the following scenarios best describe how and why you use AI language models? Select all that apply. - Selected Choice - 
+homework_assistance,1,**Homework Assistance**: Getting help with school or university assignments.
+research,2,**Research**: Fact-checking or gaining overviews on specific topics.
+source_suggestions,3,"**Source Suggestions**: Creating or finding bibliographies, information sources or reading lists."
+professional_work,4,"**Professional Work**: Assisting in drafting, editing, or brainstorming content for work."
+creative_writing,5,"**Creative Writing**: Generating story ideas, dialogues, poems or other writing prompts."
+casual_conversation,6,"**Casual Conversation**: Engaging in small talk, casual chats, or joke generation."
+personal_recommendations,7,"**Personal Recommendations**: Seeking book, music or movie recommendations."
+daily_productivity,8,"**Daily Productivity**: Setting reminders, making to-do lists, or productivity tips."
+technical_or_programming_help,9,"**Technical or Programming Help**: Seeking programming guidance, code generation, software recommendations, or debugging assistance."
+travel_guidance,10,"**Travel Guidance**: Getting destination recommendations, planning holidays, or cultural etiquette tips."
+lifestyle_and_hobbies,11,"**Lifestyle and Hobbies**: Looking for recipes, craft ideas, home decoration tips, or hobby-related information."
+well-being_guidance,12,"**Well-being Guidance**: Seeking general exercise routines, wellness or meditation tips."
+medical_guidance,13,**Medical Guidance**: Seeking health-related advice or medical guidance.
+financial_guidance,14,**Financial Guidance**: Asking about financial concepts or general investing ideas.
+games,15,"**Games**: Playing text-based games, generating riddles or puzzles."
+historical_or_news_insight,16,**Historical or News Insight**: Getting summaries or background on historical events or news and current affairs.
+relationship_advice,17,"**Relationship Advice**: Seeking general self-help or relationship advice for family, friends or partners."
+language_learning,18,**Language Learning**: Using it as a tool for language practice or translation.
+other,19,**Other**
+other_text,19_text,Other [Please type] - Text

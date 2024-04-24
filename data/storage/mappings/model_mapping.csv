@@ -1,0 +1,22 @@
+long_name,short_name,longcode,model_family
+claude-2,claude-2,CL2,Anthropic
+claude-2.1,claude-2.1,CL2*,Anthropic
+claude-instant-1,claude-instant-1,CL1,Anthropic
+command,command,COM,Cohere
+command-light,command-light,COML,Cohere
+command-nightly,command-nightly,COMN,Cohere
+google/flan-t5-xxl,flan-t5-xxl,FLAN,Google
+gpt-3.5-turbo,gpt-3.5-turbo,GP3*,OpenAI
+gpt-4,gpt-4,GPT4,OpenAI
+gpt-4-1106-preview,gpt-4-turbo,GPT4*,OpenAI
+HuggingFaceH4/zephyr-7b-beta,zephyr-7b-beta,ZEPH,HuggingFace
+luminous-extended-control,luminous-extended-control,LUMX,Aleph Alpha
+luminous-supreme-control,luminous-supreme-control,LUMS,Aleph Alpha
+meta-llama/Llama-2-13b-chat-hf,llama-2-13b-chat,LL13,Meta
+meta-llama/Llama-2-70b-chat-hf,llama-2-70b-chat,LL70,Meta
+meta-llama/Llama-2-7b-chat-hf,llama-2-7b-chat,LL7,Meta
+mistralai/Mistral-7B-Instruct-v0.1,mistral-7b-instruct,MIST,Mistral
+models/chat-bison-001,palm-2,PALM,Google
+OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5,pythia-12b,PYTH,Other OA
+tiiuae/falcon-7b-instruct,falcon-7b-instruct,FAL7,Other OA
+timdettmers/guanaco-33b-merged,guanaco-33b,GUAN,Other OA
