@@ -29,13 +29,26 @@ For a full **data clause**, see the [Code Book](https://github.com/HannahKirk/pr
 
 Human-written texts (including prompts) within the dataset are licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0). Model responses are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC-BY-NC-4.0). Use of model responses must abide by the original model provider licenses.
 
-For proper attribution when using this dataset in any publications or research outputs, please use the following citation format:
+For proper attribution when using this dataset in any publications or research outputs, please cite our paper:
 ```
 @article{Kirk2024PRISM,
   title   = {The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models},
   author  = {Kirk, Hannah Rose and Whitefield, Alexander and Röttger, Paul and Bean, Andrew and Margatina, Katerina and Ciro, Juan and Mosquera, Rafael and Bartolo, Max and Williams, Adina and He, He and Vidgen, Bertie and Hale, Scott A.},
   journal = {arXiv preprint arXiv:xxxx.xxxxx},
   year    = {2024}
+}
+```
+
+Or cite our dataset (DOI = `10.57967/hf/2113`):
+
+```
+@misc {Kirk2024PRISMdataset,
+    author       = {Kirk, Hannah Rose and Whitefield, Alexander and Röttger, Paul and Bean, Andrew and Margatina, Katerina and Ciro, Juan and Mosquera, Rafael and Bartolo, Max and Williams, Adina and He, He and Vidgen, Bertie and Hale, Scott A.},
+    title        = {The PRISM Alignment Dataset},
+    year         = {2024},
+    url          = {https://huggingface.co/datasets/HannahRoseKirk/prism-alignment},
+    doi          = {10.57967/hf/2113},
+    publisher    = {Hugging Face}
 }
 ```
 
