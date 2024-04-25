@@ -35,6 +35,7 @@ For proper attribution when using this dataset in any publications or research o
       title={The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models}, 
       author={Hannah Rose Kirk and Alexander Whitefield and Paul Röttger and Andrew Bean and Katerina Margatina and Juan Ciro and Rafael Mosquera and Max Bartolo and Adina Williams and He He and Bertie Vidgen and Scott A. Hale},
       year={2024},
+      url = {http://arxiv.org/abs/2404.16019},
       eprint={2404.16019},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
@@ -44,7 +45,7 @@ For proper attribution when using this dataset in any publications or research o
 Or cite our dataset (DOI = `10.57967/hf/2113`):
 
 ```
-@misc {kirk2024PRISMdataset,
+@misc{kirk2024PRISMdataset,
     author       = {Kirk, Hannah Rose and Whitefield, Alexander and Röttger, Paul and Bean, Andrew and Margatina, Katerina and Ciro, Juan and Mosquera, Rafael and Bartolo, Max and Williams, Adina and He, He and Vidgen, Bertie and Hale, Scott A.},
     title        = {The PRISM Alignment Dataset},
     year         = {2024},
