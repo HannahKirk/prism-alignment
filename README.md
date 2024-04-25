@@ -1,7 +1,7 @@
 # The PRISM Alignment Project
 
 <div style="text-align:center">
-   <img src="https://github.com/HannahKirk/prism-alignment/blob/main/prism_splash.png" alt="Summary of PRISM" width="75%">
+   <img src="https://github.com/HannahKirk/prism-alignment/blob/main/prism_splash.png" alt="Summary of PRISM" width="100%">
 </div>
 
 ## Description
